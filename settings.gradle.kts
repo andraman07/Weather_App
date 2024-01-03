@@ -10,8 +10,15 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+
+
+
+
     }
+
 }
+
+
 
 rootProject.name = "Weather App"
 include(":app")
